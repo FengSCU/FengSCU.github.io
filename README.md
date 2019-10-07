@@ -16,4 +16,3 @@ step 3: check the neighbor’s crime and school information by clicking on the s
 
 [Click! Start Find Your Neighborhoods!](https://public.tableau.com/profile/feng.wang2440#!/vizhome/NFversion3_0/Dashboard1?publish=yes)
 
-<iframe src="https://public.tableau.com/profile/feng.wang2440#!/vizhome/NFversion3_0/Dashboard1?publish=yes"></iframe>
